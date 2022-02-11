@@ -30,3 +30,13 @@ def test_add_None_0() :
     except TypeError :
         assert True
     assert answer == None
+
+def test_add_a_0() :
+    calculator = Calculator()
+
+    answer = None
+    try :
+        answer = calculator.add('a', 0)
+    except TypeError :
+        assert True
+    assert answer == None
