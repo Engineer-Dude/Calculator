@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="1" failures="0" skipped="0" tests="1" time="0.202" timestamp="2022-02-10T23:34:40.927763" hostname="LAPTOP-T7N088FK"><testcase classname="" name="test_Calculator" file="test_Calculator.py" time="0.000"><error message="collection failure">test_Calculator.py:2: in &lt;module&gt;
-    import Calculator
-Calculator.py:1: in &lt;module&gt;
-    class Calculator(self) :
-E   NameError: name 'self' is not defined</error></testcase></testsuite></testsuites>

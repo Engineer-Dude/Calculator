@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.027" timestamp="2022-02-10T23:39:53.763775" hostname="LAPTOP-T7N088FK"><testcase classname="test_Calculator" name="test_add_0_0" file="test_Calculator.py" line="3" time="0.001"><system-out>--------------------------------- Captured Log ---------------------------------
-
---------------------------------- Captured Out ---------------------------------
-
-</system-out><system-err>--------------------------------- Captured Err ---------------------------------
-
-</system-err></testcase></testsuite></testsuites>
