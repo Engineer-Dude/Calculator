@@ -1,2 +1,4 @@
 Calculator/.vs/
 Calculator/TestResults
+Calculator/Calculator/.pytest_cache/
+Calculator/Calculator/__pycache__/
